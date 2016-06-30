@@ -5,6 +5,7 @@ Obj/
 UnityGenerated/
 Library/
 Assets/AssetStoreTools*
+Build/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
